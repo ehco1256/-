@@ -1,0 +1,6 @@
+      IlAEsb1GkkViB1x1vmTlv3UWNGGz6lHru9MJDbEBdAD
+
+      file.write(stock_entry.get()," ")
+      file.write(buy_spin.get()," ")
+      file.write(sell_spin.get()," ")
+      file.write(time_gap_spin.get()," ")
